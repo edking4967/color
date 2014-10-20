@@ -1,4 +1,4 @@
-##COLORS##
+##COLOR##
 #What:#
 Bring a little color to things
 #Why:#
